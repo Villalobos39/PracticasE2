@@ -1,0 +1,7 @@
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\bin\Debug\mayor_menor.exe.config
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\bin\Debug\mayor_menor.exe
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\bin\Debug\mayor_menor.pdb
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\obj\Debug\mayor_menor.csprojAssemblyReference.cache
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\obj\Debug\mayor_menor.csproj.CoreCompileInputs.cache
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\obj\Debug\mayor_menor.exe
+D:\PracticasE2\PE2_VILLALOBOS_PEREZ_DULCE_JASMIN\mayor_menor\obj\Debug\mayor_menor.pdb
